@@ -8,6 +8,8 @@ I have a template in the "src/main/resources" folder called "application.propert
 
 [OpenSecrets.org API](https://www.opensecrets.org/resources/create/apis.php)
 
+Then change the name of the file from "application.properties.dist" to "application.properties".
+
 ## Examples
 For examples of how to interact with the library, see the Examples.java file under "src/main/resources". 
 
