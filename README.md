@@ -11,7 +11,7 @@ I have a template in the "src/main/resources" folder called "application.propert
 Then change the name of the file from "application.properties.dist" to "application.properties".
 
 ## Examples
-For examples of how to interact with the library, see the Examples.java file under "src/main/resources". 
+For examples of how to interact with the library, see the Examples.java file under "src/main/java/com/anthonyolivieri/opensecretsapi". 
 
 ## More information
 The API returns JSONObject(s) by calling methods and supplying specific parameters. 
